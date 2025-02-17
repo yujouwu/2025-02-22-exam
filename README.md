@@ -10,3 +10,6 @@
     - **收藏：** 點擊「收藏」按鈕可切換愛心的標記樣式。
 
 Note：條件篩選需結合搜尋功能，例如：分類為 jewelery，關鍵字為 solid，那麼只會找到分類為 jewelery 且關鍵字為 solid 的產品
+
+### 考試參考文件
+https://liberating-turtle-5a2.notion.site/bf273e530935489ca4a5791ebc89cfb5
